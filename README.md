@@ -1,2 +1,1 @@
-# mcp-server-test
-github mcp server tool calling test
+This is a repo used to test tool calling with GitHub MCP server.
